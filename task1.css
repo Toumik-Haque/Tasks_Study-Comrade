@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(166, 184, 178);
+}
+
+#left {
+    text-align: left;
+}
+
+#center {
+    text-align: center;
+}
+
+#right {
+    text-align: right;
+}
+
+#green {
+    color: green;
+}
+
+#trebuchet {
+    font-family: 'Trebuchet MS';
+}
+
+#big {
+    font-size: 100px;
+    margin: auto;
+}
+
+#small-white {
+    color: white;
+    font-family: 'arial';
+    font-size: small;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#header {
+    text-align: center;
+}
+
+h1 {
+    letter-spacing: 4px;
+    font-weight: 10;
+    background-color: rgb(244, 215, 250);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#header h4{
+    color: gray;
+}
+
+h2 {
+    letter-spacing: 2px;
+    font-weight: 10;
+    display: inline-block;
+    background-color: rgb(244, 215, 250);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 0;
+    color: gray;
+}
+
+h4 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.section {
+    margin-bottom: 10px;
+}
+
+.edu{
+    margin-top: 30px;
+}
+
+#btech{
+    margin-top: 0;
+}
+
+li, span{
+    line-height: 1.5;
+}

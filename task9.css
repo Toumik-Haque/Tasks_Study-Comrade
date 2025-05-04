@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+}
+
+.container{
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+.box{
+    border: 3px solid white;
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 240px;
+    align-items: start;
+}
+
+.box-f{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxdc7V9N-Qn-jZ2RiM20rDZRjBOK54z9vQmg&s');
+}
+
+.box-s{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFFo_jip6UL5Hmy0HHhDRwtrQpLid1pWFiQ&s');
+}
+
+.box-t{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdAnNAlzQQ1Xs1GeijRSu_ybwth5MwwafRg&s');
+}
+
+h2{
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+button{
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 20px;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+button:hover{
+    background-color: white;
+}

@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#layout{
+    background-color: rgb(84, 75, 99);
+    height: 349px;
+    width: 274px;
+    border-radius: 30px;
+    margin: 200px;
+}
+
+#screen{
+    background-color: aliceblue;
+    margin: 25px;
+    height: 50px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    font-size: 40px;
+    padding-right: 10px;
+    font-family: sans-serif;
+}
+
+#buttons{
+    display: grid;
+    grid-template-columns: repeat(4, 50px);
+    gap: 8px;
+    margin: 25px;
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 40px;
+    border: 0;
+}
+
+#equal{
+    background-color: rgb(255, 106, 0);
+}

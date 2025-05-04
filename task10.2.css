@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG2vZpqz4Nn3aEUeiejdpkv6QCQOVzMHWxWg&s');
+    background-repeat: repeat;
+    background-size: 135px;
+    background-position: -30px;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 20px 0;
+}
+
+.box{
+    background-color: rgb(170, 168, 168, 0.9);
+}
+
+.header, .footer{
+    height: 15vh;
+}
+
+.main{
+    height: 120vh;
+    display: grid;
+    grid-template-columns: repeat(4, 4fr);
+    gap: 40px;
+}
+
+.main .box{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnoP1dj380du_WvJg8jPjuY2BqalNb1LzYOw&s');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90% 90%;
+}

@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(219, 222, 224);
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 580px;
+    height: 500px;
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+.bottom {
+    line-height: 0;
+}
+
+a {
+    color: rgb(45, 0, 208);
+}
