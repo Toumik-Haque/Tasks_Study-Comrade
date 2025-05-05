@@ -1,15 +1,18 @@
 body{
-    margin: 0;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG2vZpqz4Nn3aEUeiejdpkv6QCQOVzMHWxWg&s');
-    background-repeat: repeat;
-    background-size: 135px;
-    background-position: -30px;
+    margin: 0 400px;
+    
 }
 section{
     display: flex;
     flex-direction: column;
-    gap: 40px;
-    padding: 20px 0;
+    gap: 21px;
+    padding: 8px 0;
+    margin-top: 50px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG2vZpqz4Nn3aEUeiejdpkv6QCQOVzMHWxWg&s');
+    background-repeat: repeat;
+    background-size: 60px;
+    background-position: -11px;
+    width: 45.44vw;
 }
 
 .box{
@@ -17,14 +20,14 @@ section{
 }
 
 .header, .footer{
-    height: 15vh;
+    height: 10vh;
 }
 
 .main{
-    height: 120vh;
+    height: 55vh;
     display: grid;
-    grid-template-columns: repeat(4, 4fr);
-    gap: 40px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 21px;
 }
 
 .main .box{
