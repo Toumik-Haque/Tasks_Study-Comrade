@@ -36,7 +36,8 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-    justify-content: start;
+    justify-content: space-evenly;
+    overflow: hidden;
 }
 
 iframe, img {
