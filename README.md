@@ -47,6 +47,6 @@ them, text and button over image
 
 Task 10: Replicate the images below
 
-![image alt](https://github.com/Toumik-Haque/Tasks_Study-Comrade/blob/e6c361b7f84587c97afdfe12ed154f04a479832e/Task%201/task10.1.png)
+![image alt](https://github.com/Toumik-Haque/Tasks_Study-Comrade/blob/e6c361b7f84587c97afdfe12ed154f04a479832e/Task%2010/task10.1.png)
 
-![image alt](https://github.com/Toumik-Haque/Tasks_Study-Comrade/blob/e6c361b7f84587c97afdfe12ed154f04a479832e/Task%201/task10.2.png)
+![image alt](https://github.com/Toumik-Haque/Tasks_Study-Comrade/blob/e6c361b7f84587c97afdfe12ed154f04a479832e/Task%2010/task10.2.png)
