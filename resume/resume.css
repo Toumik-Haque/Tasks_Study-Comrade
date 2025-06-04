@@ -1,8 +1,15 @@
 body {
+    background-color: black;
     display: flex;
     flex-direction: column;
-    margin: 80px;
+    align-items: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main{
+    padding: 50px 90px 37px;
+    background-color: white;
+    width: 700px;
 }
 
 #header {
@@ -10,13 +17,17 @@ body {
 }
 
 h1 {
-    letter-spacing: 4px;
-    font-weight: 10;
+    margin: 0;
+    letter-spacing: 3px;
+    font-weight: 1;
+    font-size: 6vh;
     background-color: rgb(244, 215, 250);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #header h4{
+    margin-top: 15px;
+    margin-bottom: 15px;
     color: gray;
 }
 
