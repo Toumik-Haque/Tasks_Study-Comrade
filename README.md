@@ -16,7 +16,7 @@ Task 2: Replicate the images below
 
 ![image alt](https://github.com/Toumik-Haque/Tasks_Study-Comrade/blob/e6c361b7f84587c97afdfe12ed154f04a479832e/Task%202/task2.PNG)
 
-Task 3: Header that imcludes home, about, contact page
+Task 3: Header that includes home, about, contact page
 
 ![image alt](https://github.com/Toumik-Haque/Tasks_Study-Comrade/blob/e6c361b7f84587c97afdfe12ed154f04a479832e/Task%203/task3.png)
 
